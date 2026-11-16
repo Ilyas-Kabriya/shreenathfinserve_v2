@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 6 108 108" role="img" aria-label="Shreenath Finserve logo">
+  <defs>
+    <linearGradient id="gg" gradientUnits="userSpaceOnUse" x1="20" y1="18" x2="104" y2="110">
+      <stop offset="0" stop-color="#f1c97d"/>
+      <stop offset=".5" stop-color="#cf9540"/>
+      <stop offset="1" stop-color="#e6b362"/>
+    </linearGradient>
+  </defs>
+  <path d="M98 22H46a14 14 0 0 0 0 28H78a14 14 0 0 1 0 28H26v28H102" fill="none" stroke="url(#gg)" stroke-width="9" stroke-linejoin="miter"/>
+</svg>
